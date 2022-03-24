@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AppAula",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
